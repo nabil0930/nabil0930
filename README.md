@@ -1,10 +1,10 @@
 # Hi, I’m Nabil 👋
-**Full-Stack Developer | IoT & ML Enthusiast**
+**Full-Stack Developer **
 
 - 🎓 B.Tech in Computer Science & Engineering — Class of 2025  
 - 💻 Tech: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, Git, ESP8266**  
-- 🔭 Working on: _Elderly Fall Detection & Health Monitoring System_ (IoT + Django + ML)  
-- 🌱 Learning: React, Docker, CI/CD & system reliability  
+- 🔭 Worked on: _Elderly Fall Detection & Health Monitoring System_ (IoT + Django + ML)  
+- 🌱 Learning: React& system reliability  
 - 📫 Reach me: nabilahamedtnr@gmail.com | linkedin.com/in/nabilahamed
 
 ---
