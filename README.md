@@ -12,7 +12,6 @@
 ## Featured Projects
 - **elderly-health-iot** — IoT system (ESP8266) + Django dashboard + RandomForest risk prediction  
 - **oneplus-clone** — Responsive product-page UI using HTML/CSS/JS + Bootstrap  
-- **portfolio** — Personal portfolio & deployed demos
 
 ---
 
