@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @nabil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I’m Nabil 👋
+**Full-Stack Developer | IoT & ML Enthusiast**
 
-<!---
-nabil0930/nabil0930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 B.Tech in Computer Science & Engineering — Class of 2025  
+- 💻 Tech: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, Git, ESP8266**  
+- 🔭 Working on: _Elderly Fall Detection & Health Monitoring System_ (IoT + Django + ML)  
+- 🌱 Learning: React, Docker, CI/CD & system reliability  
+- 📫 Reach me: nabilahamedtnr@gmail.com | linkedin.com/in/nabilahamed
+
+---
+
+## Featured Projects
+- **elderly-health-iot** — IoT system (ESP8266) + Django dashboard + RandomForest risk prediction  
+- **oneplus-clone** — Responsive product-page UI using HTML/CSS/JS + Bootstrap  
+- **portfolio** — Personal portfolio & deployed demos
+
+---
+
+## GitHub Stats
+![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilahamed&show_icons=true&theme=radical)
+
+---
+
+## How I work
+- Clean commits, feature branches, PRs
+- Small, testable increments
+- Clear README + demo for each project
+
