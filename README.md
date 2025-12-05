@@ -2,7 +2,7 @@
 **Full-Stack Developer **
 
 - 🎓 B.Tech in Computer Science & Engineering — Class of 2025  
-- 💻 Tech: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, Git, ESP8266**  
+- 💻 Tech: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, Git**  
 - 🔭 Worked on: _Elderly Fall Detection & Health Monitoring System_ (IoT + Django + ML)  
 - 🌱 Learning: React& system reliability  
 - 📫 Reach me: nabilahamedtnr@gmail.com | linkedin.com/in/nabilahamed
@@ -16,7 +16,7 @@
 ---
 
 ## GitHub Stats
-![nabil0930's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabil0930&show_icons=true&theme=radical) 
+![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabil0930&show_icons=true&theme=radical)
 
 ---
 
