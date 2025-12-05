@@ -16,7 +16,7 @@
 ---
 
 ## GitHub Stats
-![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilahamed&show_icons=true&theme=radical)
+![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nabilahamed&show_icons=true&theme=radical) 
 
 ---
 
