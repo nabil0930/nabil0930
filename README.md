@@ -2,8 +2,7 @@
 ### Full Stack Developer | Python (Django) | Front-End Developer
 
 🎓 B.Tech Computer Science Graduate (2025)  
-💻 Skills: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, REST API, Git, Postman**  
-🌍 Location: Chennai, India | Open to UAE / Qatar / Remote  
+💻 Skills: **Python, Django, JavaScript, HTML, CSS, Bootstrap, SQL, REST API, Git, Postman**    
 🌐 Portfolio: https://nabil-personal-portfolio.netlify.app/
 
 ---
@@ -22,28 +21,18 @@ A Django-based trending articles app with dynamic content, template inheritance,
 ### 🔵 OnePlus Product Page Clone
 Responsive product page UI clone built using HTML/CSS/JS with Bootstrap.  
 **Tech:** HTML, CSS, JavaScript, Bootstrap  
-🔗 Repo: (add link)
+🔗 Repo: https://github.com/nabil0930/oneplus.git
 
 ---
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, JavaScript, SQL  
 - **Frameworks:** Django, Bootstrap  
-- **Tools:** Git, GitHub, Postman  
+- **Tools:** Git, GitHub, Postman, Vscode  
 - **Other:** REST APIs, Responsive UI, Debugging  
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabil0930&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nabil0930&layout=compact&hide_border=true)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=nabil0930&hide_border=true)
-
----
 
 ## 📫 Connect with Me
 📧 Email: nabilahamedtnr@gmail.com  
