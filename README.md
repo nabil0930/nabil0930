@@ -18,11 +18,6 @@ A Django-based trending articles app with dynamic content, template inheritance,
 **Tech:** Django, Python, Bootstrap  
 🔗 Repo: https://github.com/nabil0930/NewsHub-Latest-Articles-in-Django
 
-### 🔵 OnePlus Product Page Clone
-Responsive product page UI clone built using HTML/CSS/JS with Bootstrap.  
-**Tech:** HTML, CSS, JavaScript, Bootstrap  
-🔗 Repo: https://github.com/nabil0930/oneplus.git
-
 ---
 
 ## 🛠️ Tech Stack
